@@ -1,5 +1,6 @@
 public class Frase {
     public static void main(String[] args){
-        System.out.println("frase nova");
+        int idade = 35;
+        System.out.println("idade = " + idade);
     }
 }
