@@ -1,7 +1,7 @@
 public class IdadeCategoria {
     public static void main(String[] args) {
         String nome = "Samuel";
-        int idade = 15;
+        int idade = 25;
 
         if(idade <= 10) {
             System.out.println(nome + " você participará do torneio infatil");
