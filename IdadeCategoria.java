@@ -1,7 +1,12 @@
+import java.util.Scanner;
+
 public class IdadeCategoria {
     public static void main(String[] args) {
-        String nome = "Samuel";
-        int idade = 25;
+        Scanner usuario = new Scanner(System.in);
+        System.out.println("Qual é seu nome?");
+        String nome = usuario.next();
+        System.out.println("Quantos anos você tem?");
+        int idade = usuario.nextInt();
 
         if(idade <= 10) {
             System.out.println(nome + " você participará do torneio infatil");
