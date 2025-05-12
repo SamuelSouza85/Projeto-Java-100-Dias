@@ -1,4 +1,4 @@
-public class AdultoOuNão {
+public class AdultoOuNao {
     public static void main(String[] args) {
         int idade = 1;
         if(idade >= 18){
