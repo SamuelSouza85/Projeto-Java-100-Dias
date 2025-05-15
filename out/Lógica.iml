@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/../Dia01" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../Dia02" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../Dia03" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../Dia004" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
