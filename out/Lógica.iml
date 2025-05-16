@@ -7,6 +7,10 @@
       <sourceFolder url="file://$MODULE_DIR$/../Dia02" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../Dia03" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../Dia004" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../Dia 005" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../Dia005" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../Teste" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
