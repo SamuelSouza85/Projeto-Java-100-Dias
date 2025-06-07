@@ -37,7 +37,7 @@ public class DateTimeFormatterTeste {
         DateTimeFormatter formatterGR = DateTimeFormatter.ofPattern("dd.MMM.yyyy", Locale.GERMAN);
         String formatGR = LocalDate.now().format(formatterGR);
         System.out.println(formatGR);
-        LocalDate parseGR= LocalDate.parse("19/02/2025", formatterGR);
+        LocalDate parseGR= LocalDate.parse("07.Juni.2025", formatterGR);
         System.out.println(parseGR);
     }
 }
