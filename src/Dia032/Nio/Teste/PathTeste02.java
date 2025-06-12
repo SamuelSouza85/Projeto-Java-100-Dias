@@ -4,6 +4,7 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.nio.file.StandardCopyOption;
 
 public class PathTeste02 {
     public static void main(String[] args) throws IOException {
@@ -21,7 +22,7 @@ public class PathTeste02 {
 
         Path source = filePath;
         Path target = Paths.get(filePath.getParent().toString(), "file_renamed.txt");
-        Files.copy(source, target);
+        Files.copy(source, target, StandardCopyOption.REPLACE_EXISTING);
 
     }
 }
