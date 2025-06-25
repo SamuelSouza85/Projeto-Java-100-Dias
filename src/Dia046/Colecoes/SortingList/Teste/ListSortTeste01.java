@@ -8,9 +8,6 @@ public class ListSortTeste01 {
     public static void main(String[] args) {
         List<String> mangas = new ArrayList<>(6);
 
-        System.out.println("Mangas");
-        System.out.println("------------------");
-
         mangas.add("One Piece");
         mangas.add("Blue Lock");
         mangas.add("Berserk");
@@ -19,16 +16,10 @@ public class ListSortTeste01 {
         mangas.add("Dinossauro Rei");
 
         Collections.sort(mangas);
-
         for (String manga : mangas) {
             System.out.println(manga);
         }
-
         System.out.println("------------------");
-        System.out.println("Dinheiro");
-        System.out.println("------------------");
-
-
 
         List<Double> dinheiros = new ArrayList<>();
         dinheiros.add(100.21);
@@ -42,6 +33,5 @@ public class ListSortTeste01 {
         for (Double dinheiro : dinheiros) {
             System.out.println(dinheiro);
         }
-        System.out.println("------------------");
     }
 }
