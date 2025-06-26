@@ -7,14 +7,6 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-public class  MangaByIdComparator implements Comparator<Manga>{
-
-    @Override
-    public int compare(Manga manga1, Manga manga2) {
-        return manga1.getId().compareTo(manga2.getId());
-    }
-}
-
 public class MangaSortTeste01 {
     public static void main(String[] args) {
         List<Manga> mangas = new ArrayList<>(6);
