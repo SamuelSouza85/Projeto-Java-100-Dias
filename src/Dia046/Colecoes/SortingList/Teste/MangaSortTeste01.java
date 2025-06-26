@@ -7,7 +7,7 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-class  MangaByIdComparator implements Comparator<Manga>{
+public class  MangaByIdComparator implements Comparator<Manga>{
 
     @Override
     public int compare(Manga manga1, Manga manga2) {
