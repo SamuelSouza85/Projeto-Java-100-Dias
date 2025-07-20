@@ -1,4 +1,4 @@
-package Dia69.Optional.Dominio;
+package Dia069.Optional.Dominio;
 
 public class Manga {
     private Integer ID;

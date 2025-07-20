@@ -1,6 +1,6 @@
-package Dia69.Optional.Repositorio;
+package Dia069.Optional.Repositorio;
 
-import Dia69.Optional.Dominio.Manga;
+import Dia069.Optional.Dominio.Manga;
 
 import java.util.List;
 import java.util.Optional;

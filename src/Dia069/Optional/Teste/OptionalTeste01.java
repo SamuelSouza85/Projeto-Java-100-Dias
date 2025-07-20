@@ -1,7 +1,7 @@
-package Dia69.Optional.Teste;
+package Dia069.Optional.Teste;
 
-import Dia69.Optional.Dominio.Manga;
-import Dia69.Optional.Repositorio.MangaRepository;
+import Dia069.Optional.Dominio.Manga;
+import Dia069.Optional.Repositorio.MangaRepository;
 
 import java.util.Optional;
 
