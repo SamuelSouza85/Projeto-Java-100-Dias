@@ -1,0 +1,81 @@
+0000000000000000000000000000000000000000 12cc5d5b75b9ebe9bf446c9e0c99d5a3e3099954 SamuelSouza85 <samueldesouza859@gmail.com> 1744322779 -0300	commit (initial): Add file aula00
+12cc5d5b75b9ebe9bf446c9e0c99d5a3e3099954 0000000000000000000000000000000000000000 SamuelSouza85 <samueldesouza859@gmail.com> 1744322794 -0300	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 12cc5d5b75b9ebe9bf446c9e0c99d5a3e3099954 SamuelSouza85 <samueldesouza859@gmail.com> 1744322794 -0300	Branch: renamed refs/heads/master to refs/heads/main
+12cc5d5b75b9ebe9bf446c9e0c99d5a3e3099954 e5f9bdf963606ea590f1ecd8e40c09b055bd8629 SamuelSouza85 <samueldesouza859@gmail.com> 1744324267 -0300	commit: modifying file Frase
+e5f9bdf963606ea590f1ecd8e40c09b055bd8629 8998f47e9d442e5ef638af8f48dc528f06001b84 SamuelSouza85 <samueldesouza859@gmail.com> 1744325204 -0300	commit: Add CalculadorDiferencaIdade.java
+8998f47e9d442e5ef638af8f48dc528f06001b84 311a91d04fba405e30a569c69da1f323f9436c77 SamuelSouza85 <samueldesouza859@gmail.com> 1744325292 -0300	commit: .
+311a91d04fba405e30a569c69da1f323f9436c77 cb51fea92b0e9fba2cf62127ae368a7fa6809c64 SamuelSouza85 <samueldesouza859@gmail.com> 1744500451 -0300	commit: Add PorcetagemSalarial
+cb51fea92b0e9fba2cf62127ae368a7fa6809c64 dc3ee8e1ad62bf358175c7f2670435d13e4f70f7 SamuelSouza85 <samueldesouza859@gmail.com> 1744500549 -0300	commit: Added folder out
+dc3ee8e1ad62bf358175c7f2670435d13e4f70f7 f00bb3333ff1a3f5a37813b6ba6baa34b841602d SamuelSouza85 <samueldesouza859@gmail.com> 1744501453 -0300	commit: Added PorcentagemSalarialRestricoes
+f00bb3333ff1a3f5a37813b6ba6baa34b841602d 8e5d279cd2aa6eb2dce8aceb4bb445c486907d0e SamuelSouza85 <samueldesouza859@gmail.com> 1744501501 -0300	commit: Added PorcentagemSalarialRestricoes.class in folder out
+8e5d279cd2aa6eb2dce8aceb4bb445c486907d0e 6e0c8f460962d7b6c880ff98a2ad5dc806fbb57b SamuelSouza85 <samueldesouza859@gmail.com> 1744671370 -0300	commit: Added TestantoVariavel.java and TestandoVarialvel.class
+6e0c8f460962d7b6c880ff98a2ad5dc806fbb57b 7d6164e9b1c4a32fe97c3c33aa559525588e129e SamuelSouza85 <samueldesouza859@gmail.com> 1746487750 -0300	commit: .
+7d6164e9b1c4a32fe97c3c33aa559525588e129e d3a7ebcded776a7dea6c8e3222cd0f473ce962e5 SamuelSouza85 <samueldesouza859@gmail.com> 1746489086 -0300	commit: CondicionaisAula1 and AdultoOuNâo
+d3a7ebcded776a7dea6c8e3222cd0f473ce962e5 fd2d7ca05f9f55efef1fffcf94c59ed43082afcc SamuelSouza85 <samueldesouza859@gmail.com> 1746923209 -0300	commit: Adding PorcentagemSalarialCondicoes.java and PorcentagemSalarialCondioces.class
+fd2d7ca05f9f55efef1fffcf94c59ed43082afcc abda91a9b1d22fbb1ac003c10aa8129588416b1d SamuelSouza85 <samueldesouza859@gmail.com> 1746924327 -0300	commit: Adding ImparPar.java and ImparPar.class
+abda91a9b1d22fbb1ac003c10aa8129588416b1d 70e681d3fbf1943f06421d886c021baee3ce3d7e SamuelSouza85 <samueldesouza859@gmail.com> 1746926387 -0300	commit: Adding ImpostoRenda.java ImpostaRende.class
+70e681d3fbf1943f06421d886c021baee3ce3d7e ebbfc1be0a8435821f913b4b6348baf60bbb0a9e SamuelSouza85 <samueldesouza859@gmail.com> 1746926890 -0300	commit: Adding IdadeCategoria.java IdadeCategoria.class
+ebbfc1be0a8435821f913b4b6348baf60bbb0a9e 268adb572b210fcb1a9c2e24af709f535a930301 SamuelSouza85 <samueldesouza859@gmail.com> 1746927590 -0300	commit: Adding RecebendoDadosDoTeclado.java and RecebendoDadosDoTeclado.class
+268adb572b210fcb1a9c2e24af709f535a930301 6d9ac4c09ee6d2ae555d571af408f153f4421df5 SamuelSouza85 <samueldesouza859@gmail.com> 1746928220 -0300	commit: Modifiy IdadeCategoria.java
+6d9ac4c09ee6d2ae555d571af408f153f4421df5 f7eb7c4c644efbe3e25ee76705b135a562344dfc SamuelSouza85 <samueldesouza859@gmail.com> 1747003181 -0300	commit: Adicionando o Primeiro dia
+f7eb7c4c644efbe3e25ee76705b135a562344dfc d68ed098d76a5cb263d40cadca5ef005df688a1d SamuelSouza85 <samueldesouza859@gmail.com> 1747003736 -0300	commit: Movendo arquivos para pasta Dia01
+d68ed098d76a5cb263d40cadca5ef005df688a1d 4de3feff0c90473d8a8364235a0782999ff8a351 SamuelSouza85 <samueldesouza859@gmail.com> 1747004604 -0300	commit: Arrumando os nomes
+4de3feff0c90473d8a8364235a0782999ff8a351 ce42b1f0e430462a2136039520d60c86055b3f60 SamuelSouza85 <samueldesouza859@gmail.com> 1747091424 -0300	commit: Adicionando pasta Dia02 e seus arquivos
+ce42b1f0e430462a2136039520d60c86055b3f60 430e97859dafd3516dc58eeb573a27f4d8322e58 SamuelSouza85 <samueldesouza859@gmail.com> 1747180976 -0300	commit: Adicionando pasta 03 e seus arquivos
+430e97859dafd3516dc58eeb573a27f4d8322e58 2f77f65eb2d2ee40fb2782985b7ee23a4df1aed6 SamuelSouza85 <samueldesouza859@gmail.com> 1747182312 -0300	commit: Corriginda uma palavra no arquivo DoWhile
+2f77f65eb2d2ee40fb2782985b7ee23a4df1aed6 305aafc5671b429a16f671ef1daa806593f101aa SamuelSouza85 <samueldesouza859@gmail.com> 1747182467 -0300	commit: deletando pasta dia035
+305aafc5671b429a16f671ef1daa806593f101aa d1c72ed30112c33a1f2fb607bbc773c44a08389e SamuelSouza85 <samueldesouza859@gmail.com> 1747269989 -0300	commit: Adicionando pasta Dia004
+d1c72ed30112c33a1f2fb607bbc773c44a08389e bec317eca2937f2a231770254c2053d747e997fe SamuelSouza85 <samueldesouza859@gmail.com> 1747270116 -0300	commit: Adicionando arquivos class na pasta out
+bec317eca2937f2a231770254c2053d747e997fe 2989e8a8fafe71265e38252149d1b1ef2599206c SamuelSouza85 <samueldesouza859@gmail.com> 1747354341 -0300	commit: Mundando arquivos para um package
+2989e8a8fafe71265e38252149d1b1ef2599206c 346ca712bf578656fa71176a6391a838d05467a6 SamuelSouza85 <samueldesouza859@gmail.com> 1747356946 -0300	commit: Adicionando Arquivos do Dia0005
+346ca712bf578656fa71176a6391a838d05467a6 3b130962a7b8b1a40b4d27111cb23de64633014f SamuelSouza85 <samueldesouza859@gmail.com> 1747358888 -0300	commit: Adicionando CarroTeste
+3b130962a7b8b1a40b4d27111cb23de64633014f b46f72ad321dda66ec567c6ce639dd79bccd9db0 SamuelSouza85 <samueldesouza859@gmail.com> 1747451451 -0300	commit: Adicionando arquivos e pacote Dia006
+b46f72ad321dda66ec567c6ce639dd79bccd9db0 16207266c7ff0e930c6d28104267430d29e76b25 SamuelSouza85 <samueldesouza859@gmail.com> 1747530601 -0300	commit: Adicionando pacote Dia007
+16207266c7ff0e930c6d28104267430d29e76b25 30c7f7dd8af7aec3a2cf40182a190d8c1b8805a3 SamuelSouza85 <samueldesouza859@gmail.com> 1747614237 -0300	commit: Adicionando pacote Dia008
+30c7f7dd8af7aec3a2cf40182a190d8c1b8805a3 cb6b485280fdcea4277fe99304fa86f22c1131cd SamuelSouza85 <samueldesouza859@gmail.com> 1747699523 -0300	commit: Adicionando pacote Dia009
+cb6b485280fdcea4277fe99304fa86f22c1131cd 975f1bc34bd65fdd92c1433306ef3d5f92c24989 SamuelSouza85 <samueldesouza859@gmail.com> 1747787679 -0300	commit: Adicionando pacote Dia010
+975f1bc34bd65fdd92c1433306ef3d5f92c24989 27d5b3e65e939efe188f8481f5bc174cdc32bd75 SamuelSouza85 <samueldesouza859@gmail.com> 1747873200 -0300	commit: Adicionando pacote Dia011
+27d5b3e65e939efe188f8481f5bc174cdc32bd75 4fb02efc7b1b83dfb8899bf30271227b3f649a44 SamuelSouza85 <samueldesouza859@gmail.com> 1747959221 -0300	commit: Adicionando pacote Dia012
+4fb02efc7b1b83dfb8899bf30271227b3f649a44 3ddc9967cbf2e44ff827d1b6c0d3ecc191517f9f SamuelSouza85 <samueldesouza859@gmail.com> 1748047365 -0300	commit: Adicionando pacote Dia013
+3ddc9967cbf2e44ff827d1b6c0d3ecc191517f9f 3abc998d4f86919b8de8200babffb6faa3b8ea60 SamuelSouza85 <samueldesouza859@gmail.com> 1748136167 -0300	commit: Adicionando pacote Dia014
+3abc998d4f86919b8de8200babffb6faa3b8ea60 373169552f6be0cbd215e49dae0a5c691f219da3 SamuelSouza85 <samueldesouza859@gmail.com> 1748215664 -0300	commit: Adicionando pacote Dia015
+373169552f6be0cbd215e49dae0a5c691f219da3 a111c80bcb4a902030f6f69c9a3be7fdec2aa533 SamuelSouza85 <samueldesouza859@gmail.com> 1748307659 -0300	commit: Adicionando pacote Dia016
+a111c80bcb4a902030f6f69c9a3be7fdec2aa533 fc79b470d691553244eed3e87584fb605b42b10a SamuelSouza85 <samueldesouza859@gmail.com> 1748387316 -0300	commit: Adicionando pacote Dia17
+fc79b470d691553244eed3e87584fb605b42b10a dc6c76a55391b31d6e6666b5341c6e094fd82516 SamuelSouza85 <samueldesouza859@gmail.com> 1748476824 -0300	commit: Adicionando pacote Dia018
+dc6c76a55391b31d6e6666b5341c6e094fd82516 ed6b13444575a56958c420dbb84633d986544075 SamuelSouza85 <samueldesouza859@gmail.com> 1748562653 -0300	commit: Adicionando pacote Dia019
+ed6b13444575a56958c420dbb84633d986544075 50888c3864d25f1db2f0cee197403a715d81606c SamuelSouza85 <samueldesouza859@gmail.com> 1748645706 -0300	commit: Organizando pacotes
+50888c3864d25f1db2f0cee197403a715d81606c 23a8cdbaa2377f1657e040f55e474fe681e40524 SamuelSouza85 <samueldesouza859@gmail.com> 1748648251 -0300	commit: Adicionando pacote Dia020
+23a8cdbaa2377f1657e040f55e474fe681e40524 4625a79745ba4df296a94999a6d6c4bde6a57253 SamuelSouza85 <samueldesouza859@gmail.com> 1748706116 -0300	commit: Adicionando pacote Dia021
+4625a79745ba4df296a94999a6d6c4bde6a57253 dbb062cd26efc6aa205b402935c3ba5aa6495eba SamuelSouza85 <samueldesouza859@gmail.com> 1748791395 -0300	commit: Modificando arquivo StringBuilderTeste
+dbb062cd26efc6aa205b402935c3ba5aa6495eba 72705cf28e7c3126e4bb5a9baa301adaf13220c2 SamuelSouza85 <samueldesouza859@gmail.com> 1748806398 -0300	commit: Adicionando pacote Dia022
+72705cf28e7c3126e4bb5a9baa301adaf13220c2 c4bbd8572acb045822bba5f3f50bbd9c77c1f266 SamuelSouza85 <samueldesouza859@gmail.com> 1748905338 -0300	commit: Adicionando pacote dia 23
+c4bbd8572acb045822bba5f3f50bbd9c77c1f266 2e2876d470ae554de8ecc128739e9364fdeb967a SamuelSouza85 <samueldesouza859@gmail.com> 1748992441 -0300	commit: Adicionando pacote Dia024
+2e2876d470ae554de8ecc128739e9364fdeb967a d511c81f0ae0f1720eddab476c6b6fc609f79202 SamuelSouza85 <samueldesouza859@gmail.com> 1749075128 -0300	commit: adicionando pacote Dia025
+                                                                                                                                                                                 e2361a6d6ad1587215feca8f49fbfa7c42200c2e 970cc8b325b20c8433c8632b0938aa727779e0d0 SamuelSouza85 <samueldesouza859@gmail.com> 1749252617 -0300	commit: Adicionando pacote Dia027
+970cc8b325b20c8433c8632b0938aa727779e0d0 3f4c4f96e975edd15456f6bb93591250fb319686 SamuelSouza85 <samueldesouza859@gmail.com> 1749252714 -0300	commit: .
+3f4c4f96e975edd15456f6bb93591250fb319686 9d638c59d0c2c6d07b33326113756fd253ee9e91 SamuelSouza85 <samueldesouza859@gmail.com> 1749322385 -0300	commit: Adicionando pacote Dia028
+9d638c59d0c2c6d07b33326113756fd253ee9e91 52cbf942488cfd577fcec98b72cfe15ee6b3def9 SamuelSouza85 <samueldesouza859@gmail.com> 1749420642 -0300	commit: Adicionando pacote Resource
+52cbf942488cfd577fcec98b72cfe15ee6b3def9 2d3f99355665f5ef0f417ca76cca91fa5e3f515d SamuelSouza85 <samueldesouza859@gmail.com> 1749427483 -0300	commit: Adicionando pacote Dia029
+2d3f99355665f5ef0f417ca76cca91fa5e3f515d 0229fe39c2082d07dad264a7e2591483bd9c5b75 SamuelSouza85 <samueldesouza859@gmail.com> 1749510968 -0300	commit: Adicionando pacote Dia030
+                                                                                                                                                                                0b699c79a9948da398b83864be186f2913930040 0b699c79a9948da398b83864be186f2913930040 SamuelSouza85 <samueldesouza859@gmail.com> 1749684711 -0300	reset: moving to HEAD
+0b699c79a9948da398b83864be186f2913930040 254e24b6aaf90383db387967679e2b54dc06b002 SamuelSouza85 <samueldesouza859@gmail.com> 1749684773 -0300	commit: Adicionando pacote Dia032
+254e24b6aaf90383db387967679e2b54dc06b002 f0ca387e19fad798cb19604ab8a55f23ee46065a SamuelSouza85 <samueldesouza859@gmail.com> 1749688634 -0300	commit: Adicionando pacote Dia032
+f0ca387e19fad798cb19604ab8a55f23ee46065a f93fcff427a68e8fdd839d1004e235e3a9158e99 SamuelSouza85 <samueldesouza859@gmail.com> 1749771247 -0300	commit: Adicionando pacote Dia033
+f93fcff427a68e8fdd839d1004e235e3a9158e99 1bc6f96293f56c88d462fb48314ce728bb013f45 SamuelSouza85 <samueldesouza859@gmail.com> 1749865460 -0300	commit: Adicionando pacote Dia034
+1bc6f96293f56c88d462fb48314ce728bb013f45 f6265baae96698adc464e48664c11d23791be8c9 SamuelSouza85 <samueldesouza859@gmail.com> 1749944513 -0300	commit: Adicionando pacote Dia034
+f6265baae96698adc464e48664c11d23791be8c9 4c07ef6d6d342e6ed866942743227c60b530d90b SamuelSouza85 <samueldesouza859@gmail.com> 1750014535 -0300	commit: Adicionando pacote Dia036
+4c07ef6d6d342e6ed866942743227c60b530d90b 9878bc57da0eef8b55ef64c27540468c44729889 SamuelSouza85 <samueldesouza859@gmail.com> 1750113356 -0300	commit: Adicionando pacote Dia037
+9878bc57da0eef8b55ef64c27540468c44729889 081c38e4725152d0b3406082be800892de4a02e0 SamuelSouza85 <samueldesouza859@gmail.com> 1750197477 -0300	commit: Adicionando pacote Dia038
+081c38e4725152d0b3406082be800892de4a02e0 405897d58600987ea3e34e49289f7c97fdef0289 SamuelSouza85 <samueldesouza859@gmail.com> 1750286637 -0300	commit: Adicionando pacote Dia039
+405897d58600987ea3e34e49289f7c97fdef0289 1c19e9551b1f0a6efe3bd2f9c6c4aaf17366c02b SamuelSouza85 <samueldesouza859@gmail.com> 1750375918 -0300	commit: Adicionando pacote Dia040
+1c19e9551b1f0a6efe3bd2f9c6c4aaf17366c02b 53ef8f3f34ed4548ea0fc6685486c1a643cfeef5 SamuelSouza85 <samueldesouza859@gmail.com> 1750377688 -0300	commit: Adicionando pacote Dia040
+53ef8f3f34ed4548ea0fc6685486c1a643cfeef5 76a1d5de379ddca5f974711ac603734d68c43c64 SamuelSouza85 <samueldesouza859@gmail.com> 1750461499 -0300	commit: Adicionando pacote Dia041
+76a1d5de379ddca5f974711ac603734d68c43c64 a684831e5e3ebed7bb7c01864dc0e38aae7b43d3 SamuelSouza85 <samueldesouza859@gmail.com> 1750515073 -0300	commit: Adicionando pacote Dia042
+a684831e5e3ebed7bb7c01864dc0e38aae7b43d3 0a0423aff323d73a7964386f46f6a48716902f1b SamuelSouza85 <samueldesouza859@gmail.com> 1750723031 -0300	commit: Adicionando pacote Dia044
+0a0423aff323d73a7964386f46f6a48716902f1b f6fc5b5d643bef72bfd450d57d6cbc4dee974dfc SamuelSouza85 <samueldesouza859@gmail.com> 1750807352 -0300	commit: Adicionando pacote Dia045
+f6fc5b5d643bef72bfd450d57d6cbc4dee974dfc 567a6b09870e2a0767723586dfee0664c1a3f3eb SamuelSouza85 <samueldesouza859@gmail.com> 1750891072 -0300	commit: Adicionando pacote Dia046
+567a6b09870e2a0767723586dfee0664c1a3f3eb 532c083dc25e2ad738c05f69f38e52507d0ce98d SamuelSouza85 <samueldesouza859@gmail.com> 1750894492 -0300	commit: Modificando arquivo ListSortTeste01
+532c083dc25e2ad738c05f69f38e52507d0ce98d c54aa2ac50e513e52b1eba0288bf0fb37320b161 SamuelSouza85 <samueldesouza859@gmail.com> 1750979848 -0300	commit: Modificando pacote Dia046
+c54aa2ac50e513e52b1eba0288bf0fb37320b161 66aa758221fe568c60a8676e9ce84acf08799d35 SamuelSouza85 <samueldesouza859@gmail.com> 1750979954 -0300	commit: Modificando pacote Dia046
+66aa758221fe568c60a8676e9ce84acf08799d35 4c4d4a0c359611ab7b75a7cf1b6a32f8d1d3fa2d SamuelSouza85 <samueldesouza859@gmail.com> 1750980330 -0300	commit: Adicionando pacote Dia047
+4c4d4a0c359611ab7b75a7cf1b6a32f8d1d3fa2d dbec91fa724ca2e4f5cdaf14c5af602d6941c3e1 SamuelSouza85 <samueldesouza859@gmail.com> 1751068455 -0300	commit: Adicionando pacote Dia048
