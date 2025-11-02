@@ -4,7 +4,8 @@ import Dia100.Builder.Dominio.Person;
 
 public class BuilderPatternTeste01 {
     public static void main(String[] args) {
-        Person build = new Person.PersonBuilder()
+        Person build = Person.PersonBuilder
+                .builder()
                 .firstName("William")
                 .lastName("Suane")
                 .username("viradonojiriya")

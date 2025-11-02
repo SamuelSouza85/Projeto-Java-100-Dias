@@ -22,11 +22,20 @@ public class Person {
                 ", email='" + email + '\'' +
                 '}';
     }
+
     public static class PersonBuilder {
         private String firstName;
         private String lastName;
         private String username;
         private String email;
+
+        private PersonBuilder() {
+
+        }
+
+        public static PersonBuilder builder() {
+            return new PersonBuilder();
+        }
 
         public PersonBuilder firstName(String firstName) {
             this.firstName = firstName;
@@ -53,7 +62,11 @@ public class Person {
         public Person build() {
             return new Person(firstName, lastName, username, email);
         }
+
+
     }
 
-
+    public String getFirstName() {
+        return firstName;
+    }
 }
